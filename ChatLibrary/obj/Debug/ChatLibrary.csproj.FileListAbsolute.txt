@@ -1,0 +1,8 @@
+F:\cs16\ChatApplicaiton\Status\bin\Debug\Status.dll
+F:\cs16\ChatApplicaiton\Status\bin\Debug\Status.pdb
+F:\cs16\ChatApplicaiton\Status\obj\Debug\Status.dll
+F:\cs16\ChatApplicaiton\Status\obj\Debug\Status.pdb
+F:\cs16\ChatApplicaiton\ChatLibrary\bin\Debug\ChatLibrary.dll
+F:\cs16\ChatApplicaiton\ChatLibrary\bin\Debug\ChatLibrary.pdb
+F:\cs16\ChatApplicaiton\ChatLibrary\obj\Debug\ChatLibrary.dll
+F:\cs16\ChatApplicaiton\ChatLibrary\obj\Debug\ChatLibrary.pdb

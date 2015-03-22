@@ -1,0 +1,5 @@
+F:\cs16\ChatApplicaiton\Status\bin\Release\Status.dll
+F:\cs16\ChatApplicaiton\Status\bin\Release\Status.pdb
+F:\cs16\ChatApplicaiton\Status\obj\Release\Status.dll
+F:\cs16\ChatApplicaiton\Status\obj\Release\Status.pdb
+F:\cs16\ChatApplicaiton\Status\obj\Release\Status.csprojResolveAssemblyReference.cache

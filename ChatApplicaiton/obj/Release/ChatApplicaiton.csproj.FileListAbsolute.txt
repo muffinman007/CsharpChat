@@ -1,0 +1,11 @@
+F:\cs16\ChatApplicaiton\ChatApplicaiton\bin\Release\ChatApplicaiton.exe.config
+F:\cs16\ChatApplicaiton\ChatApplicaiton\bin\Release\ChatApplicaiton.exe
+F:\cs16\ChatApplicaiton\ChatApplicaiton\bin\Release\ChatApplicaiton.pdb
+F:\cs16\ChatApplicaiton\ChatApplicaiton\bin\Release\Status.dll
+F:\cs16\ChatApplicaiton\ChatApplicaiton\bin\Release\Status.pdb
+F:\cs16\ChatApplicaiton\ChatApplicaiton\obj\Release\ChatApplicaiton.csprojResolveAssemblyReference.cache
+F:\cs16\ChatApplicaiton\ChatApplicaiton\obj\Release\ChatApplicaiton.Form1.resources
+F:\cs16\ChatApplicaiton\ChatApplicaiton\obj\Release\ChatApplicaiton.Properties.Resources.resources
+F:\cs16\ChatApplicaiton\ChatApplicaiton\obj\Release\ChatApplicaiton.csproj.GenerateResource.Cache
+F:\cs16\ChatApplicaiton\ChatApplicaiton\obj\Release\ChatApplicaiton.exe
+F:\cs16\ChatApplicaiton\ChatApplicaiton\obj\Release\ChatApplicaiton.pdb
